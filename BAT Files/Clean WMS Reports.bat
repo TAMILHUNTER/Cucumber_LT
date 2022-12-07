@@ -1,0 +1,1 @@
+del /s /q D:\Tamil\Automation\Eclipse\Workspace\WMS\src\reports
